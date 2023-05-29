@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John Dale Unite
 - 👀 I’m into Web development
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning react.js and react native
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me mail me unitejohndalev@gmail.com
 
