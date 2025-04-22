@@ -1,7 +1,45 @@
 - 👋 Hi, I’m John Dale Unite
-- 👀 I’m into Front-end development
-- 🌱 Here's my tech stack react.js/next.js/typescript for front-end and for back-end I have experienced in Springboot and a little bit of Express.js
-- 💞️ I’m looking to collaborate on any project as a front-end developer
+- 👀 A full stack developer Desktop/Web App
+- Tech Stack
+Programming Languages
+C Langugage
+JavaScript
+Java
+Python
+ 
+Technology
+Reactjs
+Nextjs
+Oracle EBS R12
+Mysql
+Postgresql
+Mongodb
+FIrebase
+Postman
+SwaggerUI
+Junit
+Material/Bootsrap UI
+LDAP
+Docker
+Figma
+ 
+Platform/IDEs
+Vs Code
+Visual Code
+Eclipse
+
+No-code/Low-code
+Retool
+Bubble io
+
+Clould Platform
+AWS
+
+AI Intergrations
+OpenAI
+Deepseek
+Gemini
+Bedrock Services
 - 📫 How to reach me mail me unitejohndalev@gmail.com
 
 <!---
