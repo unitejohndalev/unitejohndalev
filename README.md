@@ -1,46 +1,56 @@
-- 👋 Hi, I’m John Dale Unite
-- 👀 A full stack developer Desktop/Web App
-- Tech Stack
-Programming Languages
-C Langugage
-JavaScript
-Java
-Python
- 
-Technology
-Reactjs
-Nextjs
-Oracle EBS R12
-Mysql
-Postgresql
-Mongodb
-FIrebase
-Postman
-SwaggerUI
-Junit
-Material/Bootsrap UI
-LDAP
-Docker
-Figma
- 
-Platform/IDEs
-Vs Code
-Visual Code
-Eclipse
+# 👋 Hi there, I'm John Dale Unite
 
-No-code/Low-code
-Retool
-Bubble io
+I'm a passionate **Full Stack Developer** specializing in **Desktop and Web Applications**. I love building seamless user experiences and powerful backend systems using a wide range of modern technologies.
 
-Clould Platform
-AWS
+---
 
-AI Intergrations
-OpenAI
-Deepseek
-Gemini
-Bedrock Services
-- 📫 How to reach me mail me unitejohndalev@gmail.com
+## 🚀 Tech Stack
+
+### 💻 Programming Languages
+- C
+- JavaScript
+- Java
+- Python
+
+### 🛠️ Technologies & Frameworks
+- React.js
+- Next.js
+- Oracle EBS R12
+- MySQL
+- PostgreSQL
+- MongoDB
+- Firebase
+- Postman
+- Swagger UI
+- JUnit
+- Material UI / Bootstrap
+- LDAP
+- Docker
+- Figma
+
+### 🧑‍💻 Platforms & IDEs
+- VS Code
+- Visual Studio
+- Eclipse
+
+### ⚡ No-Code / Low-Code Tools
+- Retool
+- Bubble.io
+
+### ☁️ Cloud Platform
+- AWS
+
+### 🤖 AI Integrations
+- OpenAI
+- DeepSeek
+- Gemini
+- Bedrock Services
+
+---
+
+## 📫 Get in Touch
+
+📧 Email me at: **unitejohndalev@gmail.com**
 
 <!---
 unitejohndalev/unitejohndalev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
